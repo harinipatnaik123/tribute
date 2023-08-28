@@ -233,3 +233,19 @@ header>.title {
     margin-top: 2rem;
 
 }
+
+.btn {
+    color: lightblue;
+    padding-left: 500px;
+}
+
+.footer-link {
+    color: lightblue;
+    padding-left: 500px;
+}
+
+.copyright {
+    color: white;
+}
+
+
